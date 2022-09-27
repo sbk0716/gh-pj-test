@@ -23,7 +23,7 @@ found 0 vulnerabilities
 %
 ```
 
-# Scaffolding Your First Vite Project
+# Scaffolding Vite Project
 
 FYI:
 https://vitejs.dev/guide/#scaffolding-your-first-vite-project
